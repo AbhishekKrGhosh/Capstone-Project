@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Raleway&family=Sassy+Frass&display=swap');
+
+.abt
+{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: "Sassy Frass";
+    font-size: 30px;
+    border: 2px solid white;
+    padding: 50px;
+    border-radius: 5rem;
+}
+.h1abt{
+    text-align: center;
+    font-size: 50px;
+}
